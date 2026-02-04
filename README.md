@@ -5,7 +5,7 @@ I build modern web apps and practical software projects.
 
 ### What I’m working on
 
-- Cross-platform student calendar app (your current project)
+- Cross-platform student calendar app
 - Modern Gatsby/Tailwind websites for hospitality businesses
 
 ### Tech Stack
