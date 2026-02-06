@@ -10,8 +10,6 @@ I build modern web apps and practical software projects.
 
 ### Tech Stack
 
-Python | Java | JavaScript | C  
+Python | Java | JavaScript | C | TypeScript  
 Gatsby | Tailwind | AWS EC2 | Git
-
-### Featured Projects
 
