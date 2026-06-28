@@ -1,8 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=gradient&text=Barry%20Chen&fontSize=52&fontAlignY=36&animation=fadeIn" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2400&pause=700&center=true&vCenter=true&width=750&lines=CS+%2B+Mathematics+%40+NYU;Full-stack+Developer;Building+student+tools+and+business+software;React+%7C+Gatsby+%7C+Python+%7C+Cloud" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Barry%20Chen&fontSize=55&fontAlignY=38&desc=CS%20%2B%20Mathematics%20%40%20NYU%20%7C%20Full-stack%20Developer&descAlignY=58&animation=fadeIn" />
 
 # Hi, I’m Barry Chen 👋
 
