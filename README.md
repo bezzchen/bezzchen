@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=2500&pause=700&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Barry+Chen;CS+%2B+Mathematics+%40+NYU;Full-stack+Developer;Building+Practical+Software+Projects" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=gradient&text=Barry%20Chen&fontSize=52&fontAlignY=36&animation=fadeIn" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2400&pause=700&center=true&vCenter=true&width=750&lines=CS+%2B+Mathematics+%40+NYU;Full-stack+Developer;Building+student+tools+and+business+software;React+%7C+Gatsby+%7C+Python+%7C+Cloud" alt="Typing SVG" />
 
 # Hi, I’m Barry Chen 👋
 
@@ -9,8 +11,8 @@
 I build modern web apps, student tools, and business-focused software with clean design and real-world usefulness.
 
 [![GitHub](https://img.shields.io/badge/GitHub-bezzchen-181717?style=for-the-badge&logo=github)](https://github.com/bezzchen)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-barry--yutan--chen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barry-yutan-chen/)
+[![Email](https://img.shields.io/badge/Email-barry.phasel235%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barry.phasel235@gmail.com)
 
 </div>
 
@@ -49,13 +51,19 @@ A creative software project focused on making digital workflows more useful and 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,c,react,gatsby,tailwind,aws,git,github,vscode&perline=6" />
+<img src="https://skillicons.dev/icons?i=python,java,c,js,ts,html,css,react,gatsby,tailwind,aws,gcp,mysql,git,github,vscode&perline=8" />
+
+<br />
+
+<img src="https://img.shields.io/badge/Cursor-AI%20Editor-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SQL-Database-336791?style=for-the-badge" />
 
 </div>
 
-**Languages:** Python · Java · JavaScript · TypeScript · C  
-**Web:** Gatsby · React · Tailwind CSS  
-**Tools:** AWS EC2 · Git · GitHub · VS Code  
+**Languages:** Python · Java · JavaScript · TypeScript · C · HTML · CSS  
+**Web:** React · Gatsby · Tailwind CSS  
+**Cloud / Backend:** AWS EC2 · Google Cloud · SQL  
+**Tools:** Git · GitHub · VS Code · Cursor  
 
 ---
 
